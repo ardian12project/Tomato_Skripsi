@@ -126,22 +126,22 @@ elif selected == "Gallery":
   with col1:
     st.image("images0.JPG", width=100)
   with col2:
-    st.image("images1.jpg", width=100)
+    st.image("images1.JPG", width=100)
   with col3:
-    st.image("images2.jpg", width=100)
+    st.image("images2.JPG", width=100)
 
   col1, col2, col3 = st.columns(3)
   with col1:
-    st.image("images3.jpg", width=100)
+    st.image("images3.JPG", width=100)
   with col2:
-    st.image("images4.jpg", width=100)
+    st.image("images4.JPG", width=100)
   with col3:
-    st.image("images5.jpg", width=100)
+    st.image("images5.JPG", width=100)
 
   col1, col2, col3 = st.columns(3)
   with col1:
-    st.image("images6.jpg", width=100)
+    st.image("images6.JPG", width=100)
   with col2:
-    st.image("images7.jpg", width=100)
+    st.image("images7.JPG", width=100)
   with col3:
-    st.image("images8.jpg", width=100)
+    st.image("images8.JPG", width=100)
