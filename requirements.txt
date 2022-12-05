@@ -1,0 +1,5 @@
+numpy
+PIL
+tensorflow
+streamlit
+cv2
