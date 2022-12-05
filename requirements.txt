@@ -3,4 +3,4 @@ pillow
 tensorflow
 streamlit
 streamlit-option-menu
-opencv
+opencv-python
