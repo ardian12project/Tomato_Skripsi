@@ -2,5 +2,5 @@ numpy
 pillow
 tensorflow
 streamlit
-cv2
+opencv-python
 streamlit-option-menu
