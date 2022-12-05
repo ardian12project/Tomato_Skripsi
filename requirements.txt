@@ -1,5 +1,6 @@
 numpy
-PIL
+pillow
 tensorflow
 streamlit
 cv2
+streamlit-option-menu
