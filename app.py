@@ -18,16 +18,16 @@ class_names=[
   'Penyakit mosaic virus',
   'Sehat',]
 penjelasan=[
-'https://plantix.net/id/library/plant-diseases/300050/bacterial-spot-and-speck-of-tomato',
-'https://plantix.net/id/library/plant-diseases/100321/early-blight',
-'https://plantix.net/id/library/plant-diseases/100046/tomato-late-blight',
-'https://plantix.net/id/library/plant-diseases/100257/leaf-mold-of-tomato',
-'https://plantix.net/id/library/plant-diseases/100152/septoria-leaf-spot',
-'https://plantix.net/id/library/plant-diseases/500004/spider-mites',
-'https://apps.lucidcentral.org/pppw_v10/text/web_full/entities/tomato_target_spot_163.htm',
-'https://plantix.net/id/library/plant-diseases/200036/tomato-yellow-leaf-curl-virus',
-'https://plantix.net/id/library/plant-diseases/200037/tobacco-mosaic-virus',
-'https://plantix.net/id/library/crops/tomato']
+'Bacterial Spot/ Bercak bakteri disebabkan oleh beberapa spesies bakteri dari genus Xanthomonas. Ini terjadi di seluruh dunia dan merupakan salah satu penyakit paling merusak pada tomat yang tumbuh di lingkungan yang hangat dan lembab. Patogen dapat bertahan hidup di dalam atau pada biji, pada puing-puing tanaman dan pada gulma tertentu. Bakteri ini memiliki masa bertahan hidup yang sangat terbatas dari hari ke minggu di tanah. Ketika kondisinya nyaman, bakteri menyebar melalui percikan air hujan atau irigasi pancur ke tanaman yang sehat. Memasuki jaringan tanaman melalui pori-pori dan luka pada daun. Kisaran suhu optimal untuk penyebarannya adalah 25 hingga 30 °C. Setelah tanaman terinfeksi, penyakit ini sangat sulit dikendalikan dan dapat menyebabkan kerugian total pada hasil panen.',
+'Gejala-gejalanya disebabkan oleh Alternaria solani, jamur yang melewati musim dingin pada puing-puing tanaman yang terinfeksi di tanah atau pada inang alternatif. Bibit atau benih yang dibeli mungkin juga sudah terkontaminasi. Daun bagian bawah sering terinfeksi ketika kontak dengan tanah yang terkontaminasi. Suhu hangat (24-29 °C) dan kelembaban tinggi (90%) mendukung pengembangan penyakit ini. Periode basah yang panjang (atau cuaca basah/kering bergantian) meningkatkan produksi spora, yang dapat menyebar melalui angin, percikan air hujan atau irigasi pancur. Umbi yang dipanen masih hijau atau dalam kondisi basah sangat rentan terhadap infeksi. Jamur ini sering menyerang setelah periode curah hujan tinggi dan sangat merusak di daerah tropis dan subtropis.',
+'Risiko infeksi paling tinggi terjadi pada pertengahan musim panas. Jamur memasuki tanaman melalui luka dan sobekan di kulit. Suhu dan kelembaban adalah faktor lingkungan terpenting yang mempengaruhi perkembangan penyakit. Jamur busuk daun tumbuh paling baik pada kelembaban relatif tinggi (sekitar 90%) dan dalam kisaran suhu 18 hingga 26 °C. Cuaca musim panas yang hangat dan kering dapat menghentikan penyebaran penyakit ini.',
+'Gejala-gejalanya disebabkan oleh jamur Mycovellosiella fulva, yang sporanya dapat bertahan hidup tanpa inang selama 6 bulan hingga satu tahun pada suhu kamar (tidak harus). Kelembaban udara dan kelembaban daun yang berkepanjangan di atas 85% mendukung perkecambahan spora. Suhu antara 4 hingga 34 °C mendukung perkecambahan spora, dengan suhu optimalnya pada 24-26 °C. Kondisi kering dan ketiadaan air pada daun bisa merusak daya kecambah. Gejala biasanya mulai muncul 10 hari setelah inokulasi dengan perkembangan flek di kedua sisi daun. Di bagian bawah, sejumlah besar struktur penghasil spora terbentuk dan spora ini mudah menyebar dari tanaman ke tanaman dengan bantuan percikan air dan angin, peralatan dan pakaian pekerja, dan serangga. Patogen biasanya menginfeksi daun dengan menembus stomata pada tingkat kelembaban tinggi.',
+'Bercak daun Septoria terjadi di seluruh dunia dan disebabkan oleh jamur Septoria lycopersici. Jamur hanya menginfeksi tanaman dari famili kentang dan tomat. Kisaran suhu untuk pengembangan jamur bervariasi antara 15 ° dan 27 °C, dengan pertumbuhan optimal pada 25 °C. Spora mungkin disebarkan oleh air dari irigasi curah, percikan air hujan, tangan dan pakaian pemetik, serangga seperti kumbang, dan peralatan budidaya. Jamur ini melewati musim dingin pada gulma solanaceous dan di tanah atau puing-puing tanah selama periode yang singkat.',
+'Kerusakan disebabkan oleh tungau laba-laba dari genus Tetranychus, terutama T. urticae dan T. cinnabarinus. Betina dewasa memiliki panjang 0,6 mm, berwarna hijau pucat dengan dua bercak lebih gelap di tubuhnya yang oval dan rambutnya panjang di belakang. Pada musim dingin, betinanya berwarna kemerahan. Pada musim semi, betina bertelur bulat-bulat dan transparan di bagian bawah daun. Nimfa berwarna hijau pucat dengan tanda lebih gelap di sisi punggungnya. Tungau melindungi diri dalam kepompong di bagian bawah bilah daun. Tungau laba-laba tumbuh subur pada iklim kering dan panas dan akan berkembang biak hingga 7 generasi dalam satu tahun dalam kondisi ini. Ada berbagai macam inang alternatif, termasuk gulma.',
+'Jamur Corynespora cassiicola bertahan melewati musim dingin pada sisa-sisa tanaman dan di tanah. Kondisi yang nyaman untuk infeksi adalah pada kelembaban tinggi (> 80%) dan kelembaban bebas pada daun. Cuaca kering akan menekan perkembangan penyakit. Penyakit ini berpotensi serius pada varietas yang matang lebih akhir atau pada varietas yang rentan selama curah hujan tinggi.',
+'Virus Kuning Keriting Daun Tomat bukan berasal dari benih dan tidak ditularkan secara mekanis. Penyakit ini disebarkan oleh lalat putih dari spesies Bemisia tabaci. Lalat putih ini memakan permukaan daun bagian bawah dari sejumlah tanaman dan terpikat oleh tanaman muda yang lembut. Seluruh siklus infeksi dapat terjadi dalam waktu sekitar 24 jam dan didukung oleh cuaca kering dengan suhu tinggi',
+'Virus ini dapat bertahan di sisa-sisa tanaman atau akar di tanah kering selama periode lebih dari 2 tahun (1 bulan di sebagian besar tanah). Tanaman bisa terkontaminasi melalui luka kecil di akar. Virus ini dapat menyebar melalui benih yang terinfeksi, bibit, gulma dan bagian tanaman yang terkontaminasi. Angin, hujan, belalang, mamalia kecil dan burung juga dapat membawa virus antar lahan. Praktik budidaya yang buruk selama penanganan tanaman juga mendukung penularan virus. Durasi waktu siang hari, suhu, dan intensitas cahaya serta varietas dan umur tanaman menentukan tingkat keparahan infeksi.',
+'Teruskan perawatan anda agar tanaman anda selalu sehat']
 
 # background image to streamlit
 
@@ -77,7 +77,7 @@ if selected == "Home":
     st.write(' ')
   st.markdown("## Klasifikasi Penyakit Tanaman Tomat")
   st.markdown("""
-ini adalah aplikasi deep learning (Convolutional Neural Network) untuk melakukan klasifikasi penyakit tanaman tomat, berikut adalah penyakit yang di klasifikasi:
+ini adalah aplikasi deep learning (Convolutional Neural Network) untuk melakukan klasifikasi penyakit tanaman tomat, aplikasi ini hanya bisa mendeteksi penyakit pada daun tomat. berikut adalah penyakit yang di klasifikasi:
 1. Bacterial spot
 2. Early blight 
 3. Late blight
@@ -113,10 +113,11 @@ elif selected == "Upload":
     st.image(image, width=150)
     predictions = import_and_predict(image, model)
     score=np.array(predictions[0])
-    st.text(
-    "Tanaman Tomat Anda Terdeteksi {} dengan {:.2f} persentase."
+    st.subheader(
+    "Tanaman Tomat Anda Terdeteksi {}."
     .format(class_names[np.argmax(score)], 100 * np.max(score)))
-    st.markdown("Informasi Penyakit : {}".format(penjelasan[np.argmax(score)]) ) 
+    st.markdown("Informasi Penyakit :".format(penjelasan[np.argmax(score)]) )
+    st.markdown("{}".format(penjelasan[np.argmax(score)]) )
 
 elif selected == "Gallery":
   st.header("Galeri gambar")
@@ -124,24 +125,24 @@ elif selected == "Gallery":
   st.markdown("Data source: https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf")
   col1, col2, col3 = st.columns(3)
   with col1:
-    st.image("images0.JPG", width=100)
+    st.image("images0.jpg", width=100)
   with col2:
-    st.image("images1.JPG", width=100)
+    st.image("images1.jpg", width=100)
   with col3:
-    st.image("images2.JPG", width=100)
+    st.image("images2.jpg", width=100)
 
   col1, col2, col3 = st.columns(3)
   with col1:
-    st.image("images3.JPG", width=100)
+    st.image("images3.jpg", width=100)
   with col2:
-    st.image("images4.JPG", width=100)
+    st.image("images4.jpg", width=100)
   with col3:
-    st.image("images5.JPG", width=100)
+    st.image("images5.jpg", width=100)
 
   col1, col2, col3 = st.columns(3)
   with col1:
-    st.image("images6.JPG", width=100)
+    st.image("images6.jpg", width=100)
   with col2:
-    st.image("images7.JPG", width=100)
+    st.image("images7.jpg", width=100)
   with col3:
-    st.image("images8.JPG", width=100)
+    st.image("images8.jpg", width=100)
