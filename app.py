@@ -125,7 +125,7 @@ elif selected == "Gallery":
   st.markdown("Data source: https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf")
   col1, col2, col3 = st.columns(3)
   with col1:
-    st.image("images0.jpg", width=100)
+    st.image("images0.JPG", width=100)
   with col2:
     st.image("images1.jpg", width=100)
   with col3:
